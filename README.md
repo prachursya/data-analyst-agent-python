@@ -53,14 +53,6 @@ venv\Scripts\activate         # Windows
 pip install -r requirements.txt
 ```
 
-### 4. Add your API key
-```bash
-cp .env.example .env
-```
-Edit `.env` and add your [Anthropic API key](https://console.anthropic.com/):
-```
-ANTHROPIC_API_KEY=your_key_here
-```
 
 ### 5. Run the agent
 ```bash
@@ -165,7 +157,3 @@ data-analyst-agent-python/
 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
-
-## 📄 License
-
-MIT License
