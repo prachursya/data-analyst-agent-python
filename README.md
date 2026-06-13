@@ -154,6 +154,6 @@ data-analyst-agent-python/
 ## 👤 Author
 
 **Prachursya** — Data Analyst | SQL · Python · Power BI · Tableau  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/prachursya-sarma/) · [GitHub](https://github.com/prachursya)
 
 ---
